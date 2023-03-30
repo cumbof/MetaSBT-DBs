@@ -7,6 +7,7 @@ The database shows the following characteristics:
 | Attribute | Value |
 | :-------- | :---- |
 | Superkingdom | Viruses |
+| Version | 20230330 |
 | Reference Genomes | 13480 |
 | Metagenome-Assembled Genomes | 0 |
 | Species | 2819 |
