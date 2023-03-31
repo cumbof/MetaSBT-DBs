@@ -17,6 +17,8 @@ The database shows the following characteristics:
 | Classes | 33 |
 | Phyla | 17 |
 | Unknowns | 0 |
+| Bloom Filter Size | 279936 |
+| Kmer Length | 9 |
 | Tarball Link | [https://zenodo.org/api/files/06670522-f2d6-4f52-8f22-b5025d86a3b7/MetaSBT-Viruses-20230330.tar](https://zenodo.org/api/files/06670522-f2d6-4f52-8f22-b5025d86a3b7/MetaSBT-Viruses-20230330.tar) |
 | Tarball Size | 1.4GB |
 | Tarball SHA256 | 03f9283020a8c944642a49b9102489ec90006b29d88088fcc040cc5f78680e3d |
