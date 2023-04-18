@@ -1,4 +1,4 @@
 # MetaSBT Public Databases
 # https://github.com/cumbof/MetaSBT-DBs
 # id	version	references	mags	size	tarball	sha256	info
-Viruses	20230330	13480	0	459MB	https://zenodo.org/api/files/31ddc363-e207-4c88-b1ce-5353b53ac615/MetaSBT-Viruses-20230330.tar	de4862bbe876ebca3b64e062f531bfc9b2c04fed499bc4b4dfb8bd94d64321cf	https://github.com/cumbof/MetaSBT-DBs/blob/main/databases/Viruses/20230330/README.md
+Viruses	20230417	13570	0	487MB	https://zenodo.org/api/files/0e2ae987-ef23-4682-93f7-3881741efe82/MetaSBT-Viruses-20230417.tar	aa739e45532ef8fa8c3e0e19a6b350b29313273163e7e2f6ce83070a6b1fc5df	https://github.com/cumbof/MetaSBT-DBs/blob/main/databases/Viruses/20230417/README.md
