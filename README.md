@@ -12,8 +12,8 @@ In order to make it easier to deploy and distribute a database, we provide an au
 
 Have a look at the official documentation for additional information about how to retrieve the most updated list of public database and how to install them at [https://github.com/cumbof/MetaSBT/wiki/Installing-public-pre-built-databases](https://github.com/cumbof/MetaSBT/wiki/Installing-MetaSBT-databases).
 
-> __Note:__
-> Are you interested in using our software and databases, or you want to build your own private database, but you do not have enough computational resources? Get in touch with us, we are always happy to collaborate!
+> [!NOTE]
+> Are you interested in using our software and databases, or building your own private database but lack the necessary computational resources? Get in touch with us – we’re always happy to collaborate!
 
 ## Contributing
 
