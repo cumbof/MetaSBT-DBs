@@ -1,3 +1,1 @@
 # id	version	references	mags	size	tarball	sha256	info
-Viruses	20240410	26285	0	551MB	https://zenodo.org/api/records/10999058/files/MetaSBT-Viruses-20240410.tar/content	8ea286319bb0a7c39d336302cc5d643a2887a62bc93c912f4b7451c653c5bbfc	https://github.com/cumbof/MetaSBT-DBs/blob/main/databases/Viruses/20240410/README.md
-Viruses	20240415	26285	523	1.26GB	https://zenodo.org/api/records/11038188/files/MetaSBT-Viruses-20240415.tar/content	06b27938eabe38db452d6ce7500e02a6bdf8ee96e9f82049560815423bb145a8	https://github.com/cumbof/MetaSBT-DBs/blob/main/databases/Viruses/20240415/README.md
