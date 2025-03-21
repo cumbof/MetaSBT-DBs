@@ -4,9 +4,9 @@ Here is the list of all the public MetaSBT databases:
 
 |    | Database | Version  | References | MAGs   | Species | Unknowns |
 | -: | :------- | :------- | :--------- | :----- | :------ | :------- |
-|  1 | Viruses  | 20250115 | 26285      | 0      | 8169    | 0        |
-|  2 | Viruses  | 20250118 | 26285      | 1111   | 9105    | 936      |
-|  3 | Viruses  | 20250320 | 26285      | 190756 | 40729   | 32560    |
+|  1 | Viruses  | [20250115](https://github.com/cumbof/MetaSBT-DBs/tree/main/databases/Viruses/20250115) | 26285      | 0      | 8169    | 0        |
+|  2 | Viruses  | [20250118](https://github.com/cumbof/MetaSBT-DBs/tree/main/databases/Viruses/20250118) | 26285      | 1111   | 9105    | 936      |
+|  3 | Viruses  | [20250320](https://github.com/cumbof/MetaSBT-DBs/tree/main/databases/Viruses/20250320) | 26285      | 190756 | 40729   | 32560    |
 
 ## Reproducibility
 

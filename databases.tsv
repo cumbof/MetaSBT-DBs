@@ -1,1 +1,4 @@
 # id	version	references	mags	size	tarball	sha256	info
+Viruses	20250115	26285	0	567MB		0dfdf3db787a0bb7908ff618336552ba195c282a9eb1559e42a0c3fa9feec828	https://github.com/cumbof/MetaSBT-DBs/tree/main/databases/Viruses/20250115
+Viruses	20250118	26285	1111	584MB		7e28e337cbde8337097b908c575a5e81fb7c633e90e673dacb986c5dd54b18ae	https://github.com/cumbof/MetaSBT-DBs/tree/main/databases/Viruses/20250118
+Viruses	20250320	26285	190756	5.6GB		5a799ba46ed57905002bd14131a243221b76a8b11822c225e415fc5a3e01ff0e	https://github.com/cumbof/MetaSBT-DBs/tree/main/databases/Viruses/20250320
