@@ -6,14 +6,14 @@ A collection of public MetaSBT databases with taxonomically organised Sequence B
 
 Databases are produced with the open-source MetaSBT framework available at [https://github.com/cumbof/MetaSBT](https://github.com/cumbof/MetaSBT).
 
-MetaSBT databases are nothing else than big `tar` archives containing bloom filter representations of microbial genomes taxonomically organised in SBTs. You can extract the archive by yourself but most of the files in there contain absolute paths that are not compatible with their actual location on your file system.
+MetaSBT databases are nothing else than compressed tarballs containing bloom filter representations of microbial genomes taxonomically organised in SBTs.
 
-In order to make it easier to deploy and distribute a database, we provide an automated procedure implemented into the `install` module of the MetaSBT framework.
+In order to make it easier to distribute and install a database, we provide automated procedures implemented as part of the MetaSBT framework called [pack](https://github.com/cumbof/MetaSBT/wiki/Available-features#4-pack-pack-a-database-into-a-compressed-tarball) and [unpack](https://github.com/cumbof/MetaSBT/wiki/Available-features#9-unpack-install-a-database).
 
-Have a look at the official documentation for additional information about how to retrieve the most updated list of public database and how to install them at [https://github.com/cumbof/MetaSBT/wiki/Installing-public-pre-built-databases](https://github.com/cumbof/MetaSBT/wiki/Installing-MetaSBT-databases).
+Please look at the official documentation for additional information about how to retrieve the most updated list of public database and how to install them at [https://github.com/cumbof/MetaSBT/wiki/Available-features](https://github.com/cumbof/MetaSBT/wiki/Available-features).
 
 > [!NOTE]
-> Are you interested in using our software and databases, or building your own private database but lack the necessary computational resources? Get in touch with us – we’re always happy to collaborate!
+> Are you interested in using our software and databases, or building your own private database but lack the necessary computational resources? Get in touch with us – we're always happy to collaborate!
 
 ## Contributing
 
