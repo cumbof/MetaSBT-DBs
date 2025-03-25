@@ -21,7 +21,7 @@ The database shows the following characteristics:
 | Unknown Species              | 0 |
 | Bloom Filter Size            | 350000 |
 | Kmer Length                  | 9 |
-| Tarball File                 | [Download]() |
+| Tarball File                 | [Download](https://zenodo.org/api/records/15079817/files/MetaSBT-Viruses-20250115.tar.gz/content) |
 | Tarball Size                 | 567MB |
 | Tarball sha256               | 0dfdf3db787a0bb7908ff618336552ba195c282a9eb1559e42a0c3fa9feec828 |
 
