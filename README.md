@@ -1,30 +1,38 @@
 # MetaSBT Public Databases
 
-A collection of public MetaSBT databases with taxonomically organised Sequence Bloom Trees (SBTs) built over curated sets of microbial genomes.
+📦 A collection of public MetaSBT databases featuring taxonomically organized Sequence Bloom Trees (SBTs) built from curated sets of microbial genomes.
 
-## About databases
+## 🧬 About the Databases
 
-Databases are produced with the open-source MetaSBT framework available at [https://github.com/cumbof/MetaSBT](https://github.com/cumbof/MetaSBT).
+These databases are generated using the [MetaSBT framework](https://github.com/cumbof/MetaSBT).
 
-MetaSBT databases are nothing else than compressed tarballs containing bloom filter representations of microbial genomes taxonomically organised in SBTs.
+Each MetaSBT database is a compressed tarball containing Bloom filter representations of microbial genomes, hierarchically organized into SBTs based on their taxonomic information.
 
-In order to make it easier to distribute and install a database, we provide automated procedures implemented as part of the MetaSBT framework called [pack](https://github.com/cumbof/MetaSBT/wiki/Available-features#4-pack-pack-a-database-into-a-compressed-tarball) and [unpack](https://github.com/cumbof/MetaSBT/wiki/Available-features#9-unpack-install-a-database).
+To simplify their distribution and installation, MetaSBT provides automated utilities.
 
-Please look at the official documentation for additional information about how to retrieve the most updated list of public database and how to install them at [https://github.com/cumbof/MetaSBT/wiki/Available-features](https://github.com/cumbof/MetaSBT/wiki/Available-features).
+📦 [pack](https://github.com/cumbof/MetaSBT/wiki/Available-features#4-pack-pack-a-database-into-a-compressed-tarball): package a database
+
+📂 [unpack](https://github.com/cumbof/MetaSBT/wiki/Available-features#9-unpack-install-a-database): install a packaged database
+
+👉 For detailed usage instructions, and to retrieve the latest list of available public databases, refer to the [MetaSBT documentation](https://github.com/cumbof/MetaSBT/wiki/Available-features).
 
 > [!NOTE]
-> Are you interested in using our software and databases, or building your own private database but lack the necessary computational resources? Get in touch with us – we're always happy to collaborate!
+> Want to use our software and databases, or build a private MetaSBT database but don’t have the necessary compute resources?
+> Reach out! We’re always happy to collaborate.
 
-## Contributing
+## 🤝 Contributing
 
-Long-term discussion and bug reports are maintained via GitHub [Discussions](https://github.com/cumbof/MetaSBT/discussions) and [Issues](https://github.com/cumbof/MetaSBT/issues) under the [MetaSBT framework repository](https://github.com/cumbof/MetaSBT).
+Long-term discussion and bug reports are maintained via GitHub [Discussions](https://github.com/cumbof/MetaSBT/discussions) and [Issues](https://github.com/cumbof/MetaSBT/issues), while code review is managed via GitHub [Pull Requests](https://github.com/cumbof/MetaSBT/pulls).
 
-Please, (i) be sure that there are no existing issues/discussions concerning the same topic before opening a new issue/discussion; (ii) write a clear and concise description of what the issue/discussion is about; (iii) specifying the list of steps to reproduce the behavior in addition to versions and other technical details is highly recommended.
+Before contributing, please:
+1. Check for existing issues or PRs related to your topic;
+2. Write clear and concise titles and descriptions;
+3. Include steps to reproduce bugs, relevant logs, version info, and other technical details when appropriate.behavior in addition to versions and other technical details is highly recommended.
 
-## Support
+## 🛠️ Support
 
-Discussions, issues, and PRs are not allowed in this repository.
+Need help?
 
-If you need support, please open an [Issue](https://github.com/cumbof/MetaSBT/issues) or a new [Discussion](https://github.com/cumbof/MetaSBT/discussions) under the [MetaSBT framework repository](https://github.com/cumbof/MetaSBT). We will be happy to answer your questions and help you troubleshoot any kind of issue concerning our framework and databases.
+Open an [Issue](https://github.com/cumbof/MetaSBT/issues) or start a [Discussion](https://github.com/cumbof/MetaSBT/discussions) under the [MetaSBT framework repository](https://github.com/cumbof/MetaSBT) — we're happy to assist with any questions or technical problems.
 
-Copyright © 2022 [Fabio Cumbo](https://github.com/cumbof), [Daniel Blankenberg](https://github.com/blankenberg). See [LICENSE](https://github.com/cumbof/MetaSBT-DBs/blob/main/LICENSE) for additional details.
+Copyright © 2025 [Fabio Cumbo](https://github.com/cumbof), [Daniel Blankenberg](https://github.com/blankenberg). See [LICENSE](https://github.com/cumbof/MetaSBT-DBs/blob/main/LICENSE) for additional details.
