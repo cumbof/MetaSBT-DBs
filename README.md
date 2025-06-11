@@ -27,7 +27,7 @@ Long-term discussion and bug reports are maintained via GitHub [Discussions](htt
 Before contributing, please:
 1. Check for existing issues or PRs related to your topic;
 2. Write clear and concise titles and descriptions;
-3. Include steps to reproduce bugs, relevant logs, version info, and other technical details when appropriate.behavior in addition to versions and other technical details is highly recommended.
+3. Include steps to reproduce bugs, relevant logs, version info, and other technical details when appropriate.
 
 ## 🛠️ Support
 
