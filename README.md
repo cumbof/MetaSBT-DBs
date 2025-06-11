@@ -22,7 +22,7 @@ To simplify their distribution and installation, MetaSBT provides automated util
 
 ## 🤝 Contributing
 
-Long-term discussion and bug reports are maintained via GitHub [Discussions](https://github.com/cumbof/MetaSBT/discussions) and [Issues](https://github.com/cumbof/MetaSBT/issues), while code review is managed via GitHub [Pull Requests](https://github.com/cumbof/MetaSBT/pulls).
+Long-term discussion and bug reports are maintained via GitHub [Discussions](https://github.com/cumbof/MetaSBT/discussions) and [Issues](https://github.com/cumbof/MetaSBT/issues) under the [MetaSBT framework repository](https://github.com/cumbof/MetaSBT), while code review is managed via GitHub [Pull Requests](https://github.com/cumbof/MetaSBT/pulls).
 
 Before contributing, please:
 1. Check for existing issues or PRs related to your topic;
